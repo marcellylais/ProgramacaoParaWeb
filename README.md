@@ -21,4 +21,3 @@ Repository dedicado aos estudos e entregas de atividades da disciplina de **Prog
 │   │   ├── questao04.html  # Inserção de Imagens e Poema
 │   │   └── imagem_torre.jpg
 └── README.md
-```text
